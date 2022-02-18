@@ -13,4 +13,4 @@ In the project directory, you can run: ```npm i && npm npm run dev``` to start t
 
 <!-- CONTACT -->
 ## Contact
-Abraham Serena - [@idkantv](https://twitter.com/idkantv) - abraham.serena@hotmail.com
+Abraham Serena - [@idkantv](https://twitter.com/idkantv) - abraham.serena.lk@gmail.com
