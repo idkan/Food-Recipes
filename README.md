@@ -1,5 +1,5 @@
 # Recipes Web App 😋🍔🍕🍩🍰🍴
-Build and Deploy an Real state (Rent and Sale properties) React App using [Bayout API](https://rapidapi.com/apidojo/api/bayut/). Filter search, properties list and full information page.
+Build a Web App that allows users to view and search recipes. The app should allow users to view all recipes, or search for recipes by name or ingredients.
 
 <!-- IN THE APP -->
 ## App Contains
